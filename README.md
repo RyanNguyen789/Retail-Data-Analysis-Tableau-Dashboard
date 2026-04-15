@@ -81,7 +81,7 @@ No real customer information is included.
 
 ### Dashboard
 View the live interactive Tableau dashboard here:
-[Insert your Tableau Public link]
+(https://public.tableau.com/app/profile/ryan.nguyen5507/viz/RetailBankingDashboard_17754849836060/2024RetailBanking)
 
 ### Files in This Repository
 - RetailBankingDataset.xlsx — raw data
